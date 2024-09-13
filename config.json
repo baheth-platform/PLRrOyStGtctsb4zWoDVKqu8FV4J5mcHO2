@@ -1,0 +1,43 @@
+{
+  "user_id": 1,
+  "playlist_id": 68,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "اللغة، مداخل",
+  "hidden": false,
+  "media": [
+    {
+      "title": "مدخل إلى علم اللغة | المحاضرة الأولى - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:50:33",
+      "link": "https://www.youtube.com/watch?v=dyZltm-BqjY",
+      "transcript_txt": "dyZltm-BqjY.txt",
+      "transcript_srt": "dyZltm-BqjY.srt"
+    },
+    {
+      "title": "مدخل إلى علم اللغة | المحاضرة الثانية - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:42:56",
+      "link": "https://www.youtube.com/watch?v=1ujccq20Mc4",
+      "transcript_txt": "1ujccq20Mc4.txt",
+      "transcript_srt": "1ujccq20Mc4.srt"
+    },
+    {
+      "title": "مدخل إلى علم اللغة | المحاضرة الثالثة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "00:34:54",
+      "link": "https://www.youtube.com/watch?v=pwXn6WQF4J0",
+      "transcript_txt": "pwXn6WQF4J0.txt",
+      "transcript_srt": "pwXn6WQF4J0.srt"
+    },
+    {
+      "title": "مدخل إلى علم اللغة | المحاضرة الرابعة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "00:48:54",
+      "link": "https://www.youtube.com/watch?v=3XHSzEwjF-M",
+      "transcript_txt": "3XHSzEwjF-M.txt",
+      "transcript_srt": "3XHSzEwjF-M.srt"
+    }
+  ]
+}
